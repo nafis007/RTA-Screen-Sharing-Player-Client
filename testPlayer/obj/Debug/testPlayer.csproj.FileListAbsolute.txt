@@ -1,0 +1,15 @@
+c:\users\acer\documents\visual studio 2013\Projects\testPlayer\testPlayer\bin\Debug\testPlayer.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\testPlayer\testPlayer\obj\Debug\testPlayer.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayer\testPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\acer\documents\visual studio 2013\Projects\testPlayer\testPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\acer\documents\visual studio 2013\Projects\testPlayer\testPlayer\obj\Debug\testPlayer.csproj.ResolveComReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayer\testPlayer\obj\Debug\testPlayer.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\testPlayer\testPlayer\obj\Debug\testPlayer.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\bin\Debug\testPlayer.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\bin\Debug\testPlayer.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\obj\Debug\testPlayer.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\obj\Debug\testPlayer.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\bin\Debug\MjpegProcessor.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\testPlayer\testPlayer\obj\Debug\testPlayer.DisplayForm.resources
